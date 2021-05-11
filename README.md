@@ -2,3 +2,4 @@
 Lab practical of DL (Sem 6)
 1. FFNN MNIST
 2. CNN MNIST
+3. CNN CIFAR
