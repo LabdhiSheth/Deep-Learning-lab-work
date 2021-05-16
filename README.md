@@ -4,3 +4,4 @@ Lab practical of DL (Sem 6)
 2. CNN MNIST
 3. CNN CIFAR
 4. Transfer Learning CIFAR10
+5. RNN for Language Modelling
